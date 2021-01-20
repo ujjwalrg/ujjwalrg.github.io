@@ -9,7 +9,7 @@ labels:
    -Software Development
 ---
 
-### _My take on Java before learning Javascript_
+### _My take on Javascript after knowing Java_
 Before joining the ICS-314 class at the University of Hawaii at Manoa, I was familiar with the Java programming language.
 Learning Java, in the beginning, had been a nightmare for me as I was struggling to grasp the concept of basic keywords 
 such as classes, interfaces, access modifiers, etc. Understanding when and where to use these keywords took me a generous 
