@@ -5,11 +5,11 @@ published: true
 title: My experience on learning Javasript
 date: 2021-01-19
 labels:
-  - Javascript
+  - Javascript as a newbie
 ---
         
                    Before joining the ICS-314 class at the University of Hawaii at
-           Manoa, I was familiar with the Java programming language.Learning Java,
+           Manoa, I was familiar with the Java programming language. Learning Java,
            in the beginning, had been a nightmare for me as I was struggling to gr-
            asp the concept of the basic jargon such as classes, interfaces, access
            modifiers, etc. Understanding when and where to use these keywords took 
