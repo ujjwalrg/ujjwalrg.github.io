@@ -5,9 +5,9 @@ published: true
 title: My experience on learning Javasript
 date: 2021-01-19
 labels:
-  - Javascript as a newbie
+  - Javascript
 ---
-        
+        ## My take on Javascript as a beginner
                    Before joining the ICS-314 class at the University of Hawaii at
            Manoa, I was familiar with the Java programming language. Learning Java,
            in the beginning, had been a nightmare for me as I was struggling to gr-
