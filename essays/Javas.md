@@ -8,7 +8,7 @@ labels:
    -Javascript
    -Software Development
 ---
-
+<img class= "js image" src=" {{ site.baseurl }}/images/js.png">
 ### _My take on Javascript after knowing Java_
 Before joining the ICS-314 class at the University of Hawaii at Manoa, I was familiar with the Java programming language.
 Learning Java, in the beginning, had been a nightmare for me as I was struggling to grasp the concept of basic keywords 
