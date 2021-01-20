@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: images/blastoise.jpg
+title: Pokedex
+permalink: projects/pokemon
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-20
+labels:
+  - Pokemon
+  - GitHub
+summary: A Pokemon game I developed in 2020.
+---
+
+<img class="ui image" src="{{ site.baseurl }}/images/projects.png">
 
 
 
