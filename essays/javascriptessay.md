@@ -7,7 +7,7 @@ date: 2021-01-19
 labels:
   - Javascript
 ---
-           My take on Javascript as a beginner
+          <h2 id="My take on Javascript"> My take on Javascript as a beginner</h2>
        
                    Before joining the ICS-314 class at the University of Hawaii at
            Manoa, I was familiar with the Java programming language. Learning Java,
