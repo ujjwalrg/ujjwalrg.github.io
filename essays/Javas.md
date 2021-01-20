@@ -8,8 +8,7 @@ labels:
    -Javascript
    -Software Development
 ---
-![Javascript Logo]
- (https://github.com/ujjwalrg/ujjwalrg.github.io/images/js.png)
+
 ### _My take on Java before learning Javascript_
 Before joining the ICS-314 class at the University of Hawaii at Manoa, I was familiar with the Java programming language.
 Learning Java, in the beginning, had been a nightmare for me as I was struggling to grasp the concept of basic keywords 
