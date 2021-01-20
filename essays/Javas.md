@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 published: true
-title: You should learn Javascript
+title: Learning Javascript
 date: 2021-01-20
 labels:
    -Javascript
    -Software Development
+   -Markdown
 ---
 <img class="js image" src="{{ site.baseurl }}/images/js.png">
 ### _My take on Javascript after knowing Java_
