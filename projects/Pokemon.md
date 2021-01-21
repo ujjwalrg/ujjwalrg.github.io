@@ -9,7 +9,7 @@ date: 2021-01-20
 labels:
   - Pokemon
   - GitHub
-summary: A Pokemon game I developed in 2020.
+summary: A Pokedex game that catches and hunts Pokemon at random. The caught Pokemon are displayed using the various data structures.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects.png">
