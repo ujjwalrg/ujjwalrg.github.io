@@ -1,4 +1,18 @@
+---
+layout: project
+type: project
+image: images/blastoise.jpg
+title: Pokedex
+permalink: projects/pokemon
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-20
+labels:
+  - Pokemon
+  - GitHub
+summary: A Pokedex game that catches and hunts Pokemon at random. The caught Pokemon are displayed using the various data structures.
+---
 
+<img class="ui image" src="{{ site.baseurl }}/images/projects.png">
 
 
 ## _Overview_
