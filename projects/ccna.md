@@ -9,7 +9,7 @@ date: 2021-01-20
 labels:
   - Network
   - Cisco Packet Tracer
-summary: Network Design and Test
+summary: Network design and test using cisco packet tracer.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/network.png">
