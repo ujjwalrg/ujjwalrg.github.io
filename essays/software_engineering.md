@@ -2,16 +2,14 @@
 layout: essay
 type: essay
 published: true
-title: Learning Javascript
-date: 2021-01-20
+title: My Pathway TO Programming
+date: 2021-01-21
 labels:
-   -Javascript
    -Software Development
-   -Markdown
 ---
 <img class="js image" src="{{ site.baseurl }}/images/program.png">
 
-## My Pathway to programming?
+## My Pathway to programming
 
 Like many other students, I switched majors to computer science. I was pursuing an undergraduate degree in Nutrition, and after halfway through my graduation, I decided to change major to become an electrical engineer. Soon after that, I immigrated to the US and started taking Natural Science courses at KCC. I wanted to become an electrical engineer because I enjoy learning physics since I was a kid. As I was working on my associate degree, I passed my classes with satisfactory grades. In my sophomore year at KCC, I took an EE-160 class to learn my first ever programming language. I quickly realized my desire to learn programming outweighed the desire to become an electrical engineer. I was in a great dilemma to decide whether to choose EE or ICS, so I took a break from college to realize my true passion. During my break from college, I started learning networking fundamentals and basic HTML. It interests me, so I decided to switch majors to computer science after receiving my associate degree in natural science.
 
