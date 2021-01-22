@@ -1,4 +1,15 @@
-
+---
+layout: essay
+type: essay
+published: true
+title: Learning Javascript
+date: 2021-01-20
+labels:
+   -Javascript
+   -Software Development
+   -Markdown
+---
+<img class="js image" src="{{ site.baseurl }}/images/program.png">
 
 ## My Pathway to programming?
 
