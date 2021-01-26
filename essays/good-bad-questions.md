@@ -11,6 +11,7 @@ labels:
 
 
  
+ 
  ## Asking Question is Important
  Asking questions is a powerful way of acquiring knowledge, especially for someone attached to a computer science background. As a software engineer, one runs into countless issues with complexity ranging from easy to hard. Software developers have to rely heavily on the resources that are already available on the internet. To get meaningful insights on a particular question from the project they are working on requires them to ask concise questions for which they need an answer. Failure to do so will result in a lack of response and possibly wrong answers since it’s likely that the top level developers have deemed it unnecessary to spend their valuable time understanding the question that has been awfully put together.
        
