@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+published: true
+title: Importance of Asking Questions
+date: 2021-01-26
+labels:
+   -Personal Development
+   -Learning
+---
 
 
  ## Asking Question is Important
@@ -10,6 +20,9 @@
 ### Good Questions
  Questioning is a powerful tool for unlocking values in individuals and improving interpersonal bonding. Asking a clear and 
 concise question is one of the essential traits that every software developer should possess. Right questions cut off the waiting time for an answer significantly and are more likely to be answered by experts on that topic. According to Raymond in his article “How to Ask Questions the Smart Way,” a good question is a stimulus and a gift that helps us develop our understanding and often reveals problems we might not have noticed or thought otherwise. One example of a question that illustrates most of the things that one should first consider before asking a question is below,
+   <img class="js image" src="{{ site.baseurl }}/images/goodQ.png">
+   
+   [Source Code](https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type)
 
  I came across the above post while scrolling through the stack overflow website. The question is correctly put together 
 explained. This makes it more likely to be answered as the helper perceives that the recipient of help has provided enough time and effort by asking a sensible question.
@@ -17,6 +30,9 @@ explained. This makes it more likely to be answered as the helper perceives that
 ### Bad Question
 Below is an example of the wrong question. The recipient of the help has failed to provide sufficient information to support his 
 problems, such as the language that he is using, OS, etc. Thus, he has failed miserably to land a single answer despite being viewed over 14,000 times. Not seeing enough information in the question being asked is a turn off for the majority of experts. So it is crucial that we do our homework and put together a brief and concise answer. Otherwise, the probability of getting a solution will be close to none.
+
+<img class="js image" src="{{ site.baseurl }}/images/badQ.png">
+[Source Code](https://stackoverflow.com/questions/994855/comparing-dates)
 
 
 
