@@ -20,7 +20,6 @@ summary: A Pokedex game that catches and hunts Pokemon at random. The caught Pok
 
  
 ### _Experience_
-"Game of Pokemon" was built using the Java programming language. It is made to integrate with the Java libraries such as swing    
-and awt for creating an interactive GUI. The project contributed to refining my skills in Java and getting familiar with the GUI. I learned about different sorting algorithms and GUI components such as frames, panels, labels, layout, etc.  Since we developed the game as a team, it required us to collaborate and walk team members through our code to clear about the game's functional aspect. We created the game within two weeks, and everyone had an equal contribution. 
+"Game of Pokemon" was built using the Java programming language. It is made to integrate with the Java libraries such as swing and awt for creating an interactive GUI. The project contributed to refining my skills in Java and getting familiar with the GUI. I learned about different sorting algorithms and GUI components such as frames, panels, labels, layout, etc.  Since we developed the game as a team, it required us to collaborate and walk team members through our code to clear about the game's functional aspect. We created the game within two weeks, and everyone had an equal contribution. 
 
-[Source Code](https://github.com/ICSatKCC/Pokedex/tree/develop-Ujj)
+[Source Code "Pokedex"](https://github.com/ICSatKCC/Pokedex/tree/develop-Ujj)
