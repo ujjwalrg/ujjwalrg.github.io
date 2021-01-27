@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: images/Nw.png
+title: Networking
+permalink: projects/networking
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-20
+labels:
+  - Network
+  - Cisco Packet Tracer
+summary: Network design and test using cisco packet tracer.
+---
+
+<img class="ui image" src="{{ site.baseurl }}/images/network.png">
 
 
 
