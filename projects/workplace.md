@@ -1,4 +1,19 @@
+---
+layout: project
+type: project
+image: images/satellite1.png
+title: Workplace
+permalink: projects/workplace
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-26
+labels:
+  - Radio Frequency
+  - Communication
+  - Networking
+summary: Satellite Communication 
+---
 
+<img class="ui image" src="{{ site.baseurl }}/images/workplace1.png">
 
 ## My Workplace
 I work as a NOC technician at Hawaii Pacific Teleport for five years. The teleport is an international provider of satellite and fiber-based communications. Our primary task is to maintain the contracted levels of RF/IF and IP/Terrestrial services to our customers. The working team is responsible for the teleport's operation and maintenance, including everything from the antenna to the customer racks.
