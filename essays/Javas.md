@@ -22,7 +22,7 @@ Javascript is one of the most popular programing languages that is used extensiv
 getting popular for backend development with the integration of its backend runtime environment such as NODE JS, it's
 considered a go-to language for the front end. Javascript, in comparison to Java, is simple and easy to understand. One 
 prominent example to illustrate the simplicity of Javascript is the ability to create objects without creating classes and
-instantiating them. Unlike Java, we can write and run code in Javascript without creating classes. JAvascript also provides leniency while declaring variables and functions, while in Java, we have to strictly specify the type if variables and return types in
+instantiating them. Unlike Java, we can write and run code in Javascript without creating classes. Javascript also provides leniency while declaring variables and functions, while in Java, we have to strictly specify the type if variables and return types in
 functions. With that said Javascript introduces new features in ES6, which could be challenging for beginners. It introduces new 
 concepts such as arrow functions, promise, rest parameters, let, and const, which might take a reasonable amount of time to
 understand.
