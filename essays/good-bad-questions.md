@@ -23,7 +23,7 @@ labels:
 concise question is one of the essential traits that every software developer should possess. Right questions cut off the waiting time for an answer significantly and are more likely to be answered by experts on that topic. According to Raymond in his article “How to Ask Questions the Smart Way,” a good question is a stimulus and a gift that helps us develop our understanding and often reveals problems we might not have noticed or thought otherwise. One example of a question that illustrates most of the things that one should first consider before asking a question is below,
    <img class="js image" src="{{ site.baseurl }}/images/goodQs.png">
    
-   [Source Code](https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type)
+   [Source Code "Good Question"](https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type)
 
  I came across the above post while scrolling through the stack overflow website. The question is correctly put together 
 explained. This makes it more likely to be answered as the helper perceives that the recipient of help has provided enough time and effort by asking a sensible question.
@@ -33,7 +33,7 @@ Below is an example of the wrong question. The recipient of the help has failed 
 problems, such as the language that he is using, OS, etc. Thus, he has failed miserably to land a single answer despite being viewed over 14,000 times. Not seeing enough information in the question being asked is a turn off for the majority of experts. So it is crucial that we do our homework and put together a brief and concise answer. Otherwise, the probability of getting a solution will be close to none.
 
 <img class="js image" src="{{ site.baseurl }}/images/badQs.png">
-[Source Code](https://stackoverflow.com/questions/994855/comparing-dates)
+[Source Code "Bad Question"](https://stackoverflow.com/questions/994855/comparing-dates)
 
 
 
