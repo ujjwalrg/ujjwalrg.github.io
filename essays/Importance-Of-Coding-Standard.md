@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+published: true
+title: Writing Meaningful Code
+date: 2021-02-11
+labels:
+   -Coding
+   -Software Development
+   -Markdown
+---
 ## Write your code for humans, not for computers!!
 
 Software engineers spend a large amount of their time reading and writing codes. Maintaining specific coding standards on the code is very important because the code reader will have faster comprehension of what the code is doing and save them a reasonable amount of time. Someone may argue that the computers or compilers don't care about the coding standard; they only care about the syntax that we use in our code, so why is there such a big fuss about maintaining the coding standard. As software engineers, we regularly collaborate with our peers to share our codes and try to work on other people's code. A low-quality code is challenging to understand, which can be frustrating if you're working on a project with a deadline. Furthermore, the quality of code is a measure of how diligent and professional the coder is. Hence, it is in everyone's best interest to write well-defined code following the organization's coding standard. 
