@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+published: true
+title: My Two Cents on CSS Framework
+date: 2021-02-25
+labels:
+   -CSS Framework
+   -Semantic UI
+---
 ## UI Framework Can Make Your Life Easier!!
    User Interface frameworks help developers to speed up the development of front-end applications. UI frameworks can be straightforward to use, and they can reduce the time to design a webpage significantly as opposed to using HTML and CSS stylesheets. Depending upon the type of framework, there is a learning curve in the beginning, just like any other applications framework, but it is well worth the time and effort in the long run. Excelling in one of the front-end frameworks will enable the developers to build a beautiful, responsive multi-platform application without excellent technical and design skills. The use of frameworks minimizes code complexity and prevents developers from re-inventing the wheel, saving them a significant amount of time.
     
