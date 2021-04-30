@@ -9,6 +9,7 @@ labels:
    -Software Development
 ---
 
+
 ## Prelude
 Software design began decades ago. Soon after that, developers noticed within their code that certain kinds of designs fail and pass.  Various people were having similar issues, and it didn't take long to recognize the pattern. Ultimately, different design patterns are created to resolve the recurring problems by providing templates and making problem-solving more straightforward and efficient. 
 
@@ -26,4 +27,4 @@ Developers have been working on application designs for years and more likely ca
 
 4)MVC: We use MVC to organize our code and distribution of behaviors. The model contains database- mongo in our case, the view is for user interface- react in our case, and finally, we use react-router for the controller.  
 
- Patterns provide the way to think about how an application works. Understanding how an application works make it way easier to debug and fix issues within the application. So we shouldn't overlook the benefits of using good design patterns. 
+ Patterns provide the way to think about how an application works. Understanding how an application works make it way easier to debug and fix issues within the application. So we shouldn't overlook the benefits of using good design patternsa. 
