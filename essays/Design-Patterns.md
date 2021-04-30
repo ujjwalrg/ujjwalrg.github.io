@@ -14,6 +14,7 @@ Developers have been working on application designs for years and more likely ca
 
 ## My experience using Design Patterns
    For the project that my team and I are currently working on, we're using different design patterns for efficiency. Our project uses Meteor and Javascript, and the few design patterns we're using are as follows,
+   
 1) Observer: This pattern notifies the component to change its state and re-render when there are changes on the publication.
 
 2) Prototype: This pattern creates a new object by cloning an existing object class instance.  
