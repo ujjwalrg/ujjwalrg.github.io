@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+published: true
+title: Understanding Design Patterns
+date: 2021-04-29
+labels:
+   -Design Pattern
+   -Software Development
+---
+
 ## What are Design Patterns?  
 Developers have been working on application designs for years and more likely came across common design challenges while working. Consequently, they decided to create design patterns to overcome those kinds of recurring issues. Design patterns make it easier for developers to develop and maintain their applications by providing features such as reusability, time efficiency, and many more. Design patterns do not necessarily solve every problem but provide a foundation for how to solve a problem. In other words, it provides a starting point to solve the problem; therefore, it is considered a best practice to use design patterns in software development.  However, developers shouldn't overlook the cons of design patterns. Poorly designed patterns could make life difficult for developers. 
 
