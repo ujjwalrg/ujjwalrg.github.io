@@ -9,6 +9,7 @@ labels:
    -Software Development
 ---
 
+## Prelude
 Software design began decades ago. Soon after that, developers noticed within their code that certain kinds of designs fail and pass.  Various people were having similar issues, and it didn't take long to recognize the pattern. Ultimately, different design patterns are created to resolve the recurring problems by providing templates and making problem-solving more straightforward and efficient. 
 
 ## What are Design Patterns?  
