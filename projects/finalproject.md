@@ -13,14 +13,13 @@ labels:
 summary: RateMyClasses-Manoa facilitates users to view and add reviews to the UH classes and professors
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/adminFinal.png">
 
 ## Rate My Classes - Manoa
 [**Ratemyclassesmanoa.club**](https://ratemyclassesmanoa.club/#/) is the platform that three of my groupmates and I created as a final project for the ICS-314 class at the University of Hawaii at Manoa. Creating this website aims to facilitate users to view and add reviews to the UH classes and professors. In addition to that, the website allows users to create a profile, view their past reviews, and find out about the incoming community events at the UH campus. 
 
 ## My Contribution
 My contributions to the project are listed below,
-* Re-creating the signup page and integrating it with the database so when the new users register to the website for the first time, they'll have a pre-built profile on their profile page.  <img src="{{ site.baseurl }}/images/signupFinal.png">
+* Re-creating the signup page and integrating it with the database so when the new users register to the website for the first time, they'll have a pre-built profile on their profile page.  <img class="ui image" src="{{ site.baseurl }}/images/signupFinal.png">
 * Created the User Profile page where the user can view and edit their profile and view their past classes and professors' reviews. I subscribed to different collections to retrieve data associated with the user.  <img class="ui image" src="{{ site.baseurl }}/images/userFinal.png">
 * Created an admin's profile page where the user with the admin privilege can approve or deny the review according to the guidelines. Approved or rejected reviews will immediately reflect in the database and the page subscribed to the database. <img class="ui image" src="{{ site.baseurl }}/images/adminFinal.png"> 
 * Created the "Add Event" page where the admin adds the upcoming community events.  
