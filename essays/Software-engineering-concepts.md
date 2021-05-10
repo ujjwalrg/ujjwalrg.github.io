@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+published: true
+title: Important Software Engineering Topics
+date: 2021-05-10
+labels:
+   -Configuration Management
+   -Coding Standard
+   -Software Development
+---
+
 ## Topics every software developer should know
 **Software engineering** is a vast topic consisting of numerous languages, frameworks, database management, and many other technological stacks. As an undergraduate student pursuing a degree in Computer Science, the class ICS-314 has been the most exciting and fruitful class that I've taken so far. Not only was I able to brush up my knowledge in programming, but I also learned lots of newer concepts that are practical and mainly applied in real life. Out of all those concepts, I've briefly explained my take on the few that helped me grow as a software developer.
 
