@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/finalproject.png
+image: images/finalproject1.png
 title: Rate My Classes - Manoa
 permalink: projects/RateMyClasses-Manoa
 # All dates must be YYYY-MM-DD format!
