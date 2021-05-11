@@ -15,7 +15,7 @@ summary: RateMyClasses-Manoa facilitates users to view and add reviews to the UH
 
 
 ## Rate My Classes - Manoa
-[**Ratemyclassesmanoa.club**](https://ratemyclassesmanoa.club/#/) is the platform that three of my groupmates and I created as a final project for the ICS-314 class at the University of Hawaii at Manoa. Creating this website aims to facilitate users to view and add reviews to the UH classes and professors. In addition to that, the website allows users to create a profile, view their past reviews, and find out about the incoming community events at the UH campus. 
+[**Ratemyclassesmanoa.club**](https://ratemyclassesmanoa.club/#/) is the platform that three of my groupmates and I created as a final project for the ICS-314 class at the University of Hawaii at Manoa. Creating this website aims to facilitate users to view and add reviews to the UH classes and professors. In addition to that, the website allows users to create a profile, view their past reviews, and find out about the upcoming community events at the UH campus. 
 
 ## My Contribution
 My contributions to the project are listed below,
